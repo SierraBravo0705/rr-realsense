@@ -15,6 +15,9 @@ The system can work data recorded in the following setting:
 The sytem can easily be modified to other settings.
 
 Exemplary experimental data and evaluation plots are attached.
+![Mean](https://user-images.githubusercontent.com/108615772/177041469-6acff0a4-31dc-4ff4-936a-655522ef91b5.png)
+![Median](https://user-images.githubusercontent.com/108615772/177041473-11b20144-7074-4b60-b536-6a504ed4bc9f.png)
+
 
 Files that build up the remote respiratory rate (RR) system included in this repository:
   rr_readC
